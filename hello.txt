@@ -3,3 +3,4 @@ hello world;
  author: Gabriella Pernama
  email: gabypernama@gmail.com
  
+Using ARGV 
