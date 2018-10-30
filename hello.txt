@@ -1,6 +1,7 @@
 hello world; 
  
  author: Gabriella Pernama
+ pet: coco
  email: gabypernama@gmail.com
  
 Using ARGV 
