@@ -6,3 +6,5 @@ hello world;
 Using ARGV 
 
 yellow
+
+Use greet to say hello !
