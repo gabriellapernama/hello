@@ -1,4 +1,4 @@
-hello world; 
+hello world; and saying hello world
  
  author: Gabriella Pernama
  pet: coco
@@ -9,3 +9,5 @@ Using ARGV
 yellow
 
 Use greet to say hello !
+
+ponies
